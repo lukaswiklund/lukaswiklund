@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Lukas 👋</h1>
 <p align="center">
-  Founder of <a href="https://forento.io">Forento</a> — an all-in-one platform for coaches, creators, and entrepreneurs to sell online courses, memberships, digital downloads, and coaching programs.
+  Co-founder of <a href="https://forento.io">Forento</a> — an all-in-one platform for coaches, creators, and entrepreneurs to sell online courses, memberships, digital downloads, and coaching programs.
 </p>
 
 <p align="center">
   <a href="https://forento.io"><img src="https://img.shields.io/badge/Website-forento.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hej@lukaswiklund.se"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lukas-wiklund/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
